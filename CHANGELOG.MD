@@ -1,5 +1,7 @@
 # Changelog
 
+### 20 May 2019 - "Discord Server Thing"
+- **Added a GitHub Channel on my Discord Server**
 ### 12 May 2019 - "The Calculator Project"
 -  **📄 [calculator.sln](https://github.com/InsideIndustries/TeacherDesk/blob/master/.calculator/calculator.sln)**
 -  **📄 [calculator.csproj](https://github.com/InsideIndustries/TeacherDesk/blob/master/.calculator/calculator.csproj)**
