@@ -1,7 +1,7 @@
 # Changelog
 
 ### 20 May 2019 - "Discord Server Thing"
-- **Added a GitHub Channel on my Discord Server**
+- **Added a GitHub Channel on my Discord Server [[Join the Discord Server](https://discord.gg/GQBSFkS)]**
 ### 12 May 2019 - "The Calculator Project"
 -  **📄 [calculator.sln](https://github.com/InsideIndustries/TeacherDesk/blob/master/.calculator/calculator.sln)**
 -  **📄 [calculator.csproj](https://github.com/InsideIndustries/TeacherDesk/blob/master/.calculator/calculator.csproj)**
